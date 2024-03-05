@@ -56,7 +56,7 @@ It was built using Python 3.12.0
 ## Results:
 
 1. Sampling Rate found is: 44100 Hz(It was also observed while exporting the audio file)
-2. Low pass filter of 5kHz used to remove higher frequencies, cut-off frequency decided by frequency domain analysis of the signal
+2. Low pass filter of 5kHz cut-off frequency was used to remove higher frequencies, cut-off frequency decided by frequency domain analysis of the signal
 3. It can be said that frequency range of breathing information is between 0-5kHz even in that mainly in range 0 to 2-2.5kHz, decided by observing Power spectral density of the audio signal(both processed and raw).
 
 ## Referrals
