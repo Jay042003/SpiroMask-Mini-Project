@@ -26,7 +26,7 @@ I made this mini project with the help of the library librosa which is used for 
 ## Process of making
 1. First of all I attached the mic on a mask such that it is as near to the mouth as possible like shown below.(placement might differ in a depending on the mic size and the mask shape but due to the constrained time I only had this mask available). 
 <div style="text-align:center;">
-    <img src="images/mask.jpeg" alt="Mask" width="300" style="transform: rotate(90deg);">
+    <img src="images/mask.jpeg" alt="Mask" width="300">
 </div>
 
 2. Recorded audio using Audacity after connecting the mic to laptop.
